@@ -1,0 +1,84 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Cooking Quiz</string>
+    <string name="submitButton">Submit</string>
+    <string name="start_button">Start Quiz!</string>
+    <string name="reset_button">Reset!</string>
+    <string name="placeholder">placeholder</string>
+
+
+    <!--Main Activity Page-->
+    <string name="header_1">Welcome! \n Click Below to Begin!</string>
+    <string name="quiz_question">This will be a question one day!</string>
+        <!--Quiz #1 radio group-->
+        <string name="main_activity_radio_1">remember that one time?</string>
+        <string name="main_activity_radio_2">soon my child... soon</string>
+        <string name="main_activity_radio_3">luke... i am your father?</string>
+        <string name="main_activity_radio_4">this is a bunch of gibberish :)</string>
+
+    <!--Quiz #1-->
+    <string name="quiz_1_header">Let\'s Start With Pasta!</string>
+    <string name="quiz_1_question">Pasta is commonly boiled with what to add flavor?</string>
+        <!--Quiz #1 radio group-->
+        <string name="quiz_1_radio_1">Garlic</string>
+        <string name="quiz_1_radio_2">Salt</string>  <!--Correct Answer-->
+        <string name="quiz_1_radio_3">Parsely</string>
+        <string name="quiz_1_radio_4">I\'m not allowed to be near the stove.</string>
+
+    <!--Quiz #2-->
+    <string name="quiz_2_header">Bread is Always Best!</string>
+    <string name="quiz_2_question">What Ingredient does bread rely on to grow?</string>
+        <!--Quiz #2 radio group-->
+        <string name="quiz_2_radio_1">Milk</string>
+        <string name="quiz_2_radio_2">Water</string>
+        <string name="quiz_2_radio_3">Yeast</string>    <!--Correct Answer-->
+        <string name="quiz_2_radio_4">I read yeast and all could thing about was beer.</string>
+
+    <!--Quiz #3-->
+    <string name="quiz_3_header">Knife Cuts for Days!</string>
+    <string name="quiz_3_question">How are the vegetables cut in the picture above?</string>
+        <!--Quiz #3 radio group-->
+        <string name="quiz_3_radio_1">Minced</string>
+        <string name="quiz_3_radio_2">Jullienne</string>    <!--Correct Answer-->
+        <string name="quiz_3_radio_3">Chop</string>
+        <string name="quiz_3_radio_4">I\'m just here to eat.</string>
+
+    <!--Quiz #4-->
+    <string name="quiz_4_header">Those Tricky Tomatoes!</string>
+    <string name="quiz_4_question">Tomatoes can be tricky to cut! What kind of knife will make this task easier?</string>
+        <!--Quiz #4 radio group-->
+        <string name="quiz_4_radio_1">Serrated Knife</string>   <!--Correct Answer-->
+        <string name="quiz_4_radio_2">Chefs Knife</string>
+        <string name="quiz_4_radio_3">Pairing Knife</string>
+        <string name="quiz_4_radio_4">I bled out about 30 minutes ago.</string>
+
+    <!--Quiz #5-->
+    <string name="quiz_5_header">The Science of Baking!</string>
+    <string name="quiz_5_question">Baking is not my thing, but its always good to know this. Approximately how many teaspoons are in a tablespoon?</string>
+        <!--Quiz #5 radio group-->
+        <string name="quiz_5_radio_1">1</string>
+        <string name="quiz_5_radio_2">2</string>
+        <string name="quiz_5_radio_3">3</string>    <!--Correct Answer-->
+        <string name="quiz_5_radio_4">Tablespoons don\'t exist. Chopsticks are all you need.</string>
+
+    <!--Results String Resources-->
+    <string name="results_header">"My gran could do it better! And she is dead!"</string>
+    <string name="results_quote">- Gordon Ramsay</string>
+        <!--Get Score-->
+               <string name="outOfFive">/5</string>
+        <!--Score Responses-->
+                <string name="zeroOfFive">-silence-</string>
+                <string name="oneOfFive">at least you got one?</string>
+                <string name="twoOfFive">Two of five &#8230; \nThats is still an F</string>
+                <string name="threeOfFive">Congrats! \n You managed to not fail!</string>
+                <string name="fourOfFive">Well look at you! \nSomeone cooks.</string>
+                <string name="fiveOfFive">Bravo! 10/10! \noh wait &#8230;</string>
+
+
+
+
+
+
+
+
+
+</resources>
